@@ -15,11 +15,13 @@ You may also see any lint errors in the console.
 **Frontend:**
 
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![axios](https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&logoColor=61DAFB)&nbsp;
 ![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 
 **Backend:**
 
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+<!-- ![nextjs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
 
 **Realtime Communication:**
 
@@ -42,6 +44,7 @@ You may also see any lint errors in the console.
 <dt>User-Friendly Interface:</dt><dd> Intuitive design for a smooth and engaging user experience.</dd>
 
 <dt>Responsive Design:</dt><dd> Enjoy a seamless viewing experience across different devices, as NewsRadar's responsive design adapts to both desktop and mobile screens.</dd>
+
 <dt>Modern Web Technologies:</dt><dd> Leverage the flexibility and efficiency of React to create a robust chat application.</dd>
 </dl>
 
