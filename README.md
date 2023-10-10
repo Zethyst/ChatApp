@@ -1,4 +1,4 @@
-<h1 align="center">Real-Time Chat Application</h1>
+<h1 align="center">ZenChat: Real-Time Chat Application</h1>
 
 <p>Explore the world of dynamic communication with our Real-Time Chat App built using React and Chat Engine. This GitHub repository houses a feature-rich chat application, enabling seamless messaging, media sharing, and dynamic updates in a modern user interface. </p>
 
