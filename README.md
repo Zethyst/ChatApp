@@ -1,11 +1,8 @@
-# Getting Started with Create React App
+<h1 align="center">Real-Time Chat Application</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>Explore the world of dynamic communication with our Real-Time Chat App built using React and Chat Engine. This GitHub repository houses a feature-rich chat application, enabling seamless messaging, media sharing, and dynamic updates in a modern user interface. </p>
 
-## Available Scripts
-
-In the project directory, you can run:
-
+[Visit Now](https://zethyst.github.io/ChatApp/) 🚀
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -14,57 +11,54 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## 🖥️ Tech Stack
+**Frontend:**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![mui](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 
-### `npm run build`
+**Backend:**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Realtime Communication:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![socketio](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
-### `npm run eject`
+**Cloud Storage:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![aws-s3](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Deployed On:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Vercel](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 📌 Key Features:
+<dl>
+<dt>Real-Time Messaging:</dt><dd> Instantly send and receive messages for fluid conversations.</dd>
 
-## Learn More
+<dt>Media Sharing:</dt><dd> Share images effortlessly with built-in file upload functionality.</dd>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<dt>User-Friendly Interface:</dt><dd> Intuitive design for a smooth and engaging user experience.</dd>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<dt>Responsive Design:</dt><dd> Enjoy a seamless viewing experience across different devices, as NewsRadar's responsive design adapts to both desktop and mobile screens.</dd>
+<dt>Modern Web Technologies:</dt><dd> Leverage the flexibility and efficiency of React to create a robust chat application.</dd>
+</dl>
 
-### Code Splitting
+## 📌 Screenshots:
+![Login](/img/Login.png)
+![MyMessage](/img/My_Chat.png)
+![TheirMessage](/img/Their_Chat.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+<h2>📬 Contact</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you want to contact me, you can reach me through below handles.
 
-### Making a Progressive Web App
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jaiswal-4664a2197)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+© 2023 Akshat Jaiswal
 
-### Advanced Configuration
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
